@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🌍  I'm based in France<br>- 🚀  I'm currently working on Lattitude <br>- 🤝  I'm open to collaborating on interesting projects<br>- 💬 You can ask me about knowledge on JS, CSS, SQL<br>- 🖥️  See my portfolio at My Portfolio<br>- ✉️  You can contact me at alex.rigaud@saint-benigne.fr<br>- ⚡  I'm secretly a programmer... but don't tell anyone. Whenever I see a bug, I don't squish it – I just start debugging!
+- 🌍  I'm based in France
+- 🚀  I'm currently working on Lattitude
+- 🤝  I'm open to collaborating on interesting projects
+- 💬 You can ask me about knowledge on JS, CSS, SQL
+- 🖥️  See my portfolio at My Portfolio
+- ✉️  You can contact me at alex.rigaud@saint-benigne.fr
 
 
 ## 🌐 Socials:
